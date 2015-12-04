@@ -8,7 +8,7 @@ Afterwards, you'll step back and reflect on your goals, worries, strengths, and 
 
 ## Completing this Project
 
-You should have completed all the necessary steps for finishing this project in ToyCity Report Generator, Part 1. Before submitting, ensure your program does the following:
+You should have completed all the necessary steps for finishing this project in Roobiedocks Adventure Prep. Before submitting, ensure your program does the following:
 
 * Is set up with the correct file structure according to the instructions
 * Solves the code and returns it with a `puts` statement in `codebreaker.rb`.
